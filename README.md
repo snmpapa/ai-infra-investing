@@ -111,6 +111,7 @@ Detailed notes live in:
 
 - [SKILL.md](SKILL.md): primary skill instructions
 - [SKILL.zh-CN.md](SKILL.zh-CN.md): Chinese version of the main skill instructions
+- [examples.md](examples.md): prompt and output examples
 - [agents/openai.yaml](agents/openai.yaml): UI-facing skill metadata
 - [references/ai-stack-layers.md](references/ai-stack-layers.md): AI stack classification
 - [references/portfolio-buckets.md](references/portfolio-buckets.md): bucket definitions
