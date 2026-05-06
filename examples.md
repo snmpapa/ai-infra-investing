@@ -162,6 +162,77 @@ Wave view:
 - NVDA = explosive upside, harder hold
 ```
 
+## Example 7: Real Portfolio Structure Case
+
+Prompt:
+
+```text
+Use $ai-infra-investing to review this AI-focused portfolio:
+
+Core candidates:
+- GOOG
+- META
+
+AI infrastructure holdings:
+- NVDA
+- TSM
+- AMD
+- MU
+- DRAM
+
+Theme holdings:
+- CRCL
+- HOOD
+
+Defensive:
+- GLD
+
+Strategic narrative small position:
+- TSLA
+
+Tactical high-beta trades I know well:
+- IREN
+- GLXY
+
+I want to separate the main portfolio, tactical high-beta sleeve, and strategic narrative sleeve.
+Tell me what is already well-balanced and what must not be allowed to grow too large.
+```
+
+Expected shape:
+
+```text
+Main portfolio:
+- GOOG
+- META
+- NVDA
+- TSM
+- AMD
+- MU
+- DRAM
+- CRCL
+- HOOD
+- GLD
+
+Tactical high-beta sleeve:
+- IREN
+- GLXY
+
+Strategic narrative sleeve:
+- TSLA
+
+What is already balanced:
+- platform demand is covered
+- GPU, CPU, foundry, and memory layers are present
+- theme exposure is separate from core exposure
+- GLD provides a modest defensive counterweight
+
+What must not grow too large:
+- memory exposure should not keep expanding through too many overlapping names
+- CRCL and HOOD should stay theme-sized
+- tactical high-beta names should not quietly become core positions
+- TSLA should remain a small narrative participation position unless the operating case strengthens materially
+```
+
 ## Suggested Pattern
 
 When using this skill with another model or platform, keep the prompt simple:
