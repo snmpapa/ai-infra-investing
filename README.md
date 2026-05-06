@@ -119,6 +119,7 @@ Detailed notes live in:
 - [references/high-beta-rules.md](references/high-beta-rules.md): rules for operator and tactical high-beta names
 - [references/portfolio-structure.md](references/portfolio-structure.md): main portfolio vs tactical trading vs strategic narrative sleeve
 - [references/execution-rules.md](references/execution-rules.md): execution-mode rules for waiting, switching, and sell-put entry discipline
+- [references/margin-of-safety-first.md](references/margin-of-safety-first.md): safety-margin-first execution rules and conservative buy-zone framing
 
 ## Recommended Use Cases
 

@@ -61,6 +61,9 @@ Load [references/portfolio-structure.md](references/portfolio-structure.md).
 8. If the user has target holdings but does not want to chase price, switch from static rebalancing to execution-mode planning.
 Load [references/execution-rules.md](references/execution-rules.md).
 
+9. If the user explicitly prioritizes downside protection over speed of deployment, apply margin-of-safety-first execution.
+Load [references/margin-of-safety-first.md](references/margin-of-safety-first.md).
+
 ## Core Principles
 
 - Distinguish `AI core exposure` from `leveraged AI exposure`.
@@ -126,3 +129,4 @@ Use these labels consistently:
 - High-beta rules: [references/high-beta-rules.md](references/high-beta-rules.md)
 - Portfolio structure: [references/portfolio-structure.md](references/portfolio-structure.md)
 - Execution rules: [references/execution-rules.md](references/execution-rules.md)
+- Margin of safety first: [references/margin-of-safety-first.md](references/margin-of-safety-first.md)

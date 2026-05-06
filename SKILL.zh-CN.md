@@ -68,6 +68,9 @@ description: 当用户要分析 AI 相关股票、ETF 或组合，并希望按 A
 8. 如果用户已经有目标组合，但不愿意追高、倾向回调买入或 Sell Put 接货，就切换到执行模式，而不是静态再平衡。  
 读取 [references/execution-rules.md](references/execution-rules.md)
 
+9. 如果用户明确把“安全边际”放在“建仓速度”之前，就切换到安全边际优先模式。  
+读取 [references/margin-of-safety-first.md](references/margin-of-safety-first.md)
+
 ## 核心原则
 
 - 区分 `AI 核心暴露` 和 `杠杆化 AI 暴露`
@@ -133,3 +136,4 @@ description: 当用户要分析 AI 相关股票、ETF 或组合，并希望按 A
 - 高 beta 规则：[references/high-beta-rules.md](references/high-beta-rules.md)
 - 组合结构卡片：[references/portfolio-structure.md](references/portfolio-structure.md)
 - 执行规则：[references/execution-rules.md](references/execution-rules.md)
+- 安全边际优先：[references/margin-of-safety-first.md](references/margin-of-safety-first.md)
