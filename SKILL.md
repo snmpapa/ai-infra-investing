@@ -55,6 +55,9 @@ Load [references/triggers.md](references/triggers.md).
 6. If the name is a high-beta operator or theme vehicle, apply special caution.
 Load [references/high-beta-rules.md](references/high-beta-rules.md).
 
+7. If the user mixes long-term holdings, tactical high-beta trades, and symbolic narrative exposure, separate them into distinct sleeves.
+Load [references/portfolio-structure.md](references/portfolio-structure.md).
+
 ## Core Principles
 
 - Distinguish `AI core exposure` from `leveraged AI exposure`.
@@ -118,3 +121,4 @@ Use these labels consistently:
 - Portfolio buckets: [references/portfolio-buckets.md](references/portfolio-buckets.md)
 - Trigger rules: [references/triggers.md](references/triggers.md)
 - High-beta rules: [references/high-beta-rules.md](references/high-beta-rules.md)
+- Portfolio structure: [references/portfolio-structure.md](references/portfolio-structure.md)

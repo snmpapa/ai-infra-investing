@@ -62,6 +62,9 @@ description: 当用户要分析 AI 相关股票、ETF 或组合，并希望按 A
 6. 如果它属于高 beta 运营商、主题放大器、矿转 AI、GPU 云租赁这类名字，要额外谨慎。  
 读取 [references/high-beta-rules.md](references/high-beta-rules.md)
 
+7. 如果用户同时持有长期主组合、弹性交易仓、象征性叙事参与仓，要强制分开讨论。  
+读取 [references/portfolio-structure.md](references/portfolio-structure.md)
+
 ## 核心原则
 
 - 区分 `AI 核心暴露` 和 `杠杆化 AI 暴露`
@@ -125,3 +128,4 @@ description: 当用户要分析 AI 相关股票、ETF 或组合，并希望按 A
 - 组合分桶：[references/portfolio-buckets.md](references/portfolio-buckets.md)
 - 加减仓触发：[references/triggers.md](references/triggers.md)
 - 高 beta 规则：[references/high-beta-rules.md](references/high-beta-rules.md)
+- 组合结构卡片：[references/portfolio-structure.md](references/portfolio-structure.md)

@@ -117,6 +117,7 @@ Detailed notes live in:
 - [references/portfolio-buckets.md](references/portfolio-buckets.md): bucket definitions
 - [references/triggers.md](references/triggers.md): add/reduce trigger rules
 - [references/high-beta-rules.md](references/high-beta-rules.md): rules for operator and tactical high-beta names
+- [references/portfolio-structure.md](references/portfolio-structure.md): main portfolio vs tactical trading vs strategic narrative sleeve
 
 ## Recommended Use Cases
 
