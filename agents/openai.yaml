@@ -1,0 +1,7 @@
+interface:
+  display_name: "AI Infra Investing"
+  short_description: "Layered AI investing workflow skill."
+  default_prompt: "Use $ai-infra-investing to analyze this AI investing idea by stack layer, portfolio bucket, and add or reduce triggers."
+
+policy:
+  allow_implicit_invocation: true
