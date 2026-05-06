@@ -233,6 +233,55 @@ What must not grow too large:
 - TSLA should remain a small narrative participation position unless the operating case strengthens materially
 ```
 
+## Example 8: Execution Mode Instead Of Mechanical Rebalancing
+
+Prompt:
+
+```text
+Use $ai-infra-investing to review my current holdings versus my target AI portfolio.
+
+I already know what I want to own long term, but I do not want to chase GOOG or TSM at current prices.
+I prefer to buy on pullbacks or sell puts to get assigned.
+I also think HOOD is oversized, but I do not want to force a sale now at a poor price.
+
+Tell me:
+- what can stay as is
+- what is overweight but can wait
+- what should only be added on pullback
+- what is a good sell-put candidate
+- which position can serve as a future switch source
+```
+
+Expected shape:
+
+```text
+Already acceptable, do not force action:
+- META
+- NVDA
+- TSLA as a small strategic narrative sleeve
+
+Overweight but can wait:
+- HOOD
+
+Wait for pullback or use sell puts:
+- GOOG
+- TSM
+- AMD
+- MU
+- DRAM
+
+Future switch source:
+- HOOD can fund future adds into stronger long-term AI stack names
+
+Not urgent:
+- CRCL
+- GLD
+
+Key point:
+- do not rebalance mechanically just because the target model says so
+- preserve strategic clarity while staying price-disciplined
+```
+
 ## Suggested Pattern
 
 When using this skill with another model or platform, keep the prompt simple:

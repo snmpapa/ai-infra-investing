@@ -118,6 +118,7 @@ Detailed notes live in:
 - [references/triggers.md](references/triggers.md): add/reduce trigger rules
 - [references/high-beta-rules.md](references/high-beta-rules.md): rules for operator and tactical high-beta names
 - [references/portfolio-structure.md](references/portfolio-structure.md): main portfolio vs tactical trading vs strategic narrative sleeve
+- [references/execution-rules.md](references/execution-rules.md): execution-mode rules for waiting, switching, and sell-put entry discipline
 
 ## Recommended Use Cases
 

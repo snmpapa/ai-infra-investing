@@ -65,6 +65,9 @@ description: 当用户要分析 AI 相关股票、ETF 或组合，并希望按 A
 7. 如果用户同时持有长期主组合、弹性交易仓、象征性叙事参与仓，要强制分开讨论。  
 读取 [references/portfolio-structure.md](references/portfolio-structure.md)
 
+8. 如果用户已经有目标组合，但不愿意追高、倾向回调买入或 Sell Put 接货，就切换到执行模式，而不是静态再平衡。  
+读取 [references/execution-rules.md](references/execution-rules.md)
+
 ## 核心原则
 
 - 区分 `AI 核心暴露` 和 `杠杆化 AI 暴露`
@@ -129,3 +132,4 @@ description: 当用户要分析 AI 相关股票、ETF 或组合，并希望按 A
 - 加减仓触发：[references/triggers.md](references/triggers.md)
 - 高 beta 规则：[references/high-beta-rules.md](references/high-beta-rules.md)
 - 组合结构卡片：[references/portfolio-structure.md](references/portfolio-structure.md)
+- 执行规则：[references/execution-rules.md](references/execution-rules.md)

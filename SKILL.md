@@ -58,6 +58,9 @@ Load [references/high-beta-rules.md](references/high-beta-rules.md).
 7. If the user mixes long-term holdings, tactical high-beta trades, and symbolic narrative exposure, separate them into distinct sleeves.
 Load [references/portfolio-structure.md](references/portfolio-structure.md).
 
+8. If the user has target holdings but does not want to chase price, switch from static rebalancing to execution-mode planning.
+Load [references/execution-rules.md](references/execution-rules.md).
+
 ## Core Principles
 
 - Distinguish `AI core exposure` from `leveraged AI exposure`.
@@ -122,3 +125,4 @@ Use these labels consistently:
 - Trigger rules: [references/triggers.md](references/triggers.md)
 - High-beta rules: [references/high-beta-rules.md](references/high-beta-rules.md)
 - Portfolio structure: [references/portfolio-structure.md](references/portfolio-structure.md)
+- Execution rules: [references/execution-rules.md](references/execution-rules.md)
